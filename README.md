@@ -4,9 +4,9 @@ Student Web Client is a small Android app for adding and viewing student records
 
 ## Screenshots
 
-![Student list](docs/screenshots/students-list.png)
+<img width="300" alt="student-form" src="https://github.com/user-attachments/assets/3b6b7ed6-b72b-4837-bbd1-4e1ae6b54d68" />
+<img width="300" alt="students-list" src="https://github.com/user-attachments/assets/bbe9cc7e-e30e-4b31-873e-d190713eecd4" />
 
-![Student form](docs/screenshots/student-form.png)
 
 ## Overview
 
