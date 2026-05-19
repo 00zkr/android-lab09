@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student Web Client</string>
+    <string-array name="villes">
+        <item>Rabat</item>
+        <item>Casablanca</item>
+        <item>Marrakech</item>
+        <item>Fes</item>
+        <item>Tanger</item>
+    </string-array>
+</resources>

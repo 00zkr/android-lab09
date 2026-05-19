@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Lab09" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#2F6F73</item>
+        <item name="colorPrimaryVariant">#184B4F</item>
+        <item name="colorSecondary">#E9A23B</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.MaterialComponents.Dark.ActionBar</item>
+    </style>
+</resources>
